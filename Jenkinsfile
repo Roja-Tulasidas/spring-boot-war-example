@@ -1,4 +1,4 @@
-1pipeline {
+2pipeline {
     agent any
      tools {
         maven 'Maven' 
